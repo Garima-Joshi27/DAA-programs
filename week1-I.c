@@ -3,7 +3,7 @@
 
 
 
-void lenear_search(int arr[], int n, int key)
+void linear_search(int arr[], int n, int key)
 {
 
     for(int i=0 ; i<=n-1 ; i++)
